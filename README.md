@@ -26,8 +26,6 @@ export OPENAI_API_KEY=your_key_here
 npm run dev
 ```
 
-This runs the Vite dev server, compiles Electron main/preload in watch mode, and launches Electron once `dist/electron/main.js` is available.
-
 ### 4) Build for production
 ```bash
 npm run build
